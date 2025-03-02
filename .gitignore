@@ -1,0 +1,9 @@
+#visual studio's crap
+/.vscode
+#object files
+*.o
+#binaries
+*.bin
+#os image(Build it yourself)
+*.iso
+*.tags
